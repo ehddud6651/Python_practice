@@ -22,3 +22,11 @@ get merge 합치고 싶은 branch이름
 브래치 흐름도 보기
 git log --graph --all --decorate
 
+.gitignore -> 깃에 안올릴파일 파일을 만들어야함
+파일안에 올리면 안되는 보안 파일의 이름을 적어놓으면 안올라감 status입력시 목록에 나오지 않음
+
+
+
+
+github에 등록
+git push origin main
