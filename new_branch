@@ -1,1 +1,21 @@
 여기는 새로운 branch입니다.
+
+
+git status 
+:commit 안된 내용있는지 확인 가능 (붉은색파일)
+
+commit 하는 방법
+
+git add -A
+git commit -m "코멘트 내용"
+
+브랜치 만드는 방법
+git branch branch이름
+
+브랜치 이동
+git checkout branch이름
+
+브랜치 합치기
+git checkout master 마스터 브랜치로 이동
+get merge 합치고 싶은 branch이름
+
