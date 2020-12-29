@@ -24,4 +24,4 @@ houses.append(house2)
 houses.append(house3)
 
 print("총 {}대의 매물이 있습니다.".format(len(houses))) # list 숫자만큼만 표현하고 싶을때 
-    house.show_detail()
+    houses.show_detail()
